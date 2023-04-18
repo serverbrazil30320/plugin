@@ -1,1 +1,1 @@
-update.caixadasorte.link
+https://update.werichcash.com/api/
