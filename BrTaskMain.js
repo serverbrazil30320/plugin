@@ -1,1 +1,1 @@
-plugin.m-encryption.com
+https://applebalanyou.com/api/
