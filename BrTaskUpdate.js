@@ -1,1 +1,1 @@
-https://update.werichcash.com/api/
+https://update.werichcash.com/api/v1/
