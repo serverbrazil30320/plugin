@@ -1,1 +1,1 @@
-https://update.caixadasorte.link
+update.caixadasorte.link
