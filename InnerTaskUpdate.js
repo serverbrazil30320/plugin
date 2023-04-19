@@ -1,0 +1,1 @@
+https://ud.safakeamanan.com/api/v1/
